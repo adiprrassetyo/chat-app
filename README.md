@@ -1,4 +1,4 @@
-# Chat-Application-Socket-io
+# Chat-App
 
 
 Key Features
